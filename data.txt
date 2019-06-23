@@ -1,0 +1,11 @@
+PID Gender Car_Type Shirt_Size Class
+1 Female Family Small C0
+2 Male Sports Large C1
+3 Male Luxury Small C0
+4 Female Sports Large C1
+5 Male Sports Medium C1
+6 Female Family Large C0
+7 Male Luxury Small C0
+8 Female Luxury Large C1
+9 Male Family Medium C0
+10 Male Sports Small C0
